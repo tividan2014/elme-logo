@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-collapse-content-box {
+  padding: 12px !important;
+}
+
+.ant-collapse-content {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+}
+
+@font-face {
+  font-family: 'JumperBoldItalic';
+  src: url('./assets/fonts/Jumper-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
